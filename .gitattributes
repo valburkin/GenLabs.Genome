@@ -1,0 +1,2 @@
+# Genomes are data: store them byte for byte.
+*.txt -text
